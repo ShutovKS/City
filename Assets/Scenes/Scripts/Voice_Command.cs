@@ -6,5 +6,4 @@ public class Voice_Command
     public string? building;
     public string? holiday;
     public string? sector;
-
 }
